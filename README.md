@@ -1,1 +1,2 @@
 # DAVE.AI_Assignment
+The 2 CSV files provided contain data for customers. Post sorting the dataset, I have merged the data from both the files and created a JSON Array of JSON Objects. Each JSON object represents a unique customer with the mobile number being the primary key for a record.If a customer exists in both the CSVs, I merged the record considering two.csv is the latest available data and one.csv is the older data set.
